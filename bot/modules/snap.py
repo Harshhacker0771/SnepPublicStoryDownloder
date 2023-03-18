@@ -38,11 +38,11 @@ async def reply_shortens(bot, update):
     try:
         for i in data["props"]["pageProps"]["story"]["snapList"]:
             await update.reply_document(
-                document=i["snapUrls"]["mediaUrl"], caption="By: @Nexiou"
+                document=i["snapUrls"]["mediaUrl"], caption="By: @PROFE07XH"
             )
     except KeyError:
         await update.reply_text(
             text="No Public Stories for past 24Hrs\n\n❌ OR INVALID USERNAME", quote=True
         )
 
-    await update.reply_text(text="Done ✨ @Nexiuo", quote=True)
+    await update.reply_text(text="Done ✨ @PROFE07XH", quote=True)
