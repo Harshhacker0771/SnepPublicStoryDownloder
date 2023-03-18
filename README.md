@@ -1,5 +1,5 @@
 # SnapchatStoriesBot
-> Snapchat Bot to get Public Stories 👻 on Telegram by [Nexiuo](https://telegram.dog/Nexiuo)
+> Snapchat Bot to get Public Stories 👻 on Telegram by [PROFFESOR](https://telegram.dog/PROFE07XH)
 
 https://user-images.githubusercontent.com/71930916/190898763-ae319e38-cc31-4778-9101-0ca200d1145d.mp4
 
@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/71930916/190898763-ae319e38-cc31-4778-
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/dishapatel010/SnapchatStoriesBot
+git clone https://github.com/Harshhacker0771/SnepPublicStoryDownloder
 cd SnapchatStoriesBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -22,4 +22,4 @@ python3 -m bot
 ```
 ## Contact
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.dog/nexiuo)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.dog/PROFE07XH)
